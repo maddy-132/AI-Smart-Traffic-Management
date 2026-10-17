@@ -1,0 +1,11 @@
+_pycache_/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+*.mp4
+*.avi
+*.mov
+*.mkv
+yolov8n.pt
